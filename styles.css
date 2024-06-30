@@ -265,8 +265,8 @@ section {
   @media screen and (max-width: 600px) {
     
     #profile {
-    padding-top: 100px;
-      height: 85vh;
+     padding-top: 50px;
+      height: 86vh;
       margin-bottom: 0;
     }
     header{
